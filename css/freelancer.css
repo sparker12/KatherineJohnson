@@ -40,16 +40,16 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #db8cd9;
+  background-color: #333333;
 }
 
 hr.star-dark {
-  border-color: #5b305a;
+  border-color: #1AA8EF;
 }
 
 hr.star-dark:after {
-  color: #5b305a;
-  background-color: #db8cd9;
+  color: #1AA8EF;
+  background-color: #333333;
 }
 
 section {
@@ -115,7 +115,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #db8cd9;
+  color: #333333;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -123,7 +123,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #db8cd9;
+  color: #333333;
 }
 
 #mainNav .navbar-toggler {
@@ -150,11 +150,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #db8cd9;
+    background: #333333;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #db8cd9;
+    background: #333333;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -210,7 +210,7 @@ header.masthead h2 {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(98, 41, 90, 0.9);
+  background-color: rgba(26, 168, 239, 0.3);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -328,7 +328,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #5b305a;
+  background-color: #1AA8EF;
 }
 
 #sources a{
@@ -340,15 +340,15 @@ small a{
 }
 
 small a:focus, small a:hover, small a:active{
-  color: #db8cd9;
+  color: #333333;
 }
 
 a {
-  color: #db8cd9;
+  color: #333333;
 }
 
 a:focus, a:hover, a:active {
-  color: #5b305a;
+  color: #1AA8EF;
 }
 
 .btn {
@@ -356,34 +356,34 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #db8cd9 !important;
+  background-color: #333333 !important;
 }
 
 .bg-secondary {
-  background-color: #5b305a !important;
+  background-color: #1AA8EF !important;
 }
 
 .text-primary {
-  color: #db8cd9 !important;
+  color: #333333 !important;
 }
 
 .text-secondary {
-  color: #5b305a !important;
+  color: #1AA8EF !important;
 }
 
 .btn-primary {
-  background-color: #db8cd9;
-  border-color: #db8cd9;
+  background-color: #333333;
+  border-color: #333333;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #5b305a;
-  border-color: #5b305a;
+  background-color: #1AA8EF;
+  border-color: #1AA8EF;
 }
 
 .btn-secondary {
-  background-color: #5b305a;
-  border-color: #5b305a;
+  background-color: #1AA8EF;
+  border-color: #1AA8EF;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
